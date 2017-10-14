@@ -1,4 +1,5 @@
 /src
+.idea
 pkg
 bin2
 bin/i18n
